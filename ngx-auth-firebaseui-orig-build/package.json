@@ -1,0 +1,78 @@
+{
+  "_from": "ngx-auth-firebaseui@^3.4.2",
+  "_id": "ngx-auth-firebaseui@3.4.2",
+  "_inBundle": false,
+  "_integrity": "sha512-d95XBVektQ54jAI/ugAQCX+qdWUmljiOdQe4wP7/VI//ph7zk2k1ijK0jz6NK6uTV7i7dRwOznf5JUT/cVMZ0g==",
+  "_location": "/ngx-auth-firebaseui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ngx-auth-firebaseui@^3.4.2",
+    "name": "ngx-auth-firebaseui",
+    "escapedName": "ngx-auth-firebaseui",
+    "rawSpec": "^3.4.2",
+    "saveSpec": null,
+    "fetchSpec": "^3.4.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-auth-firebaseui/-/ngx-auth-firebaseui-3.4.2.tgz",
+  "_shasum": "a2e09d4f515f8e3f3d79f7e9998e23531e86eeed",
+  "_spec": "ngx-auth-firebaseui@^3.4.2",
+  "_where": "/Users/solomo/Documents/PERSONAL/AEIG/MCVDD/ngx-admin-4.0.1",
+  "author": {
+    "name": "anthonynahas",
+    "url": "https://github.com/anthonynahas"
+  },
+  "bugs": {
+    "url": "https://github.com/anthonynahas/ngx-auth-firebaseui/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@angular-material-extensions/password-strength": "^4.0.1"
+  },
+  "deprecated": false,
+  "description": "Open Source Library for Angular Web Apps to integrate a material user interface for firebase authentication",
+  "es2015": "./esm2015/ngx-auth-firebaseui.js",
+  "homepage": "https://ngx-auth-firebaseui.firebaseapp.com",
+  "keywords": [
+    "ng",
+    "library",
+    "angular",
+    "@angular/fire",
+    "firebase",
+    "firebaseui",
+    "firebase auth",
+    "authentication",
+    "firebaseauthentication",
+    "firestore",
+    "material",
+    "material design",
+    "ssr"
+  ],
+  "license": "MIT",
+  "main": "./bundles/ngx-auth-firebaseui.umd.js",
+  "module": "./esm5/ngx-auth-firebaseui.es5.js",
+  "name": "ngx-auth-firebaseui",
+  "peerDependencies": {
+    "@angular/animations": "^8.2.9",
+    "@angular/cdk": "^8.2.3",
+    "@angular/common": "^8.2.9",
+    "@angular/core": "^8.2.9",
+    "@angular/fire": "^5.2.1",
+    "@angular/flex-layout": "^8.0.0-beta.27",
+    "@angular/forms": "^8.2.9",
+    "@angular/material": "^8.2.3",
+    "@angular/router": "^8.2.9",
+    "firebase": "^6.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anthonynahas/ngx-auth-firebaseui.git"
+  },
+  "schematics": "./schematics/collection.json",
+  "typings": "./ngx-auth-firebaseui.d.ts",
+  "version": "3.4.2"
+}
