@@ -113,7 +113,7 @@
     "jest": "^24.9.0",
     "jest-cli": "^24.9.0",
     "jest-preset-angular": "^6.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "node-sass": "^4.13.0",
     "postcss": "^7.0.26",
     "postcss-strip-inline-comments": "0.1.5",
